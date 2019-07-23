@@ -1,0 +1,1156 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"on",
+				"onPressed: ,\t  void Function()"
+			],
+			[
+				"fie",
+				"fieldPoints\tabc"
+			],
+			[
+				"fiel",
+				"fieldData\tabc"
+			],
+			[
+				"pa",
+				"package:flutter\tabc"
+			],
+			[
+				"imp",
+				"import '';\t  Keyword"
+			],
+			[
+				"child",
+				"child: ,\t  Widget"
+			],
+			[
+				"chi",
+				"children\tabc"
+			],
+			[
+				"title",
+				"title: ,\t  Widget"
+			],
+			[
+				"Ed",
+				"EdgeInsets\tabc"
+			],
+			[
+				"blue",
+				"blueGrey\t  MaterialColor"
+			],
+			[
+				"gre",
+				"blueGrey\t  MaterialColor"
+			],
+			[
+				"pri",
+				"primaryColor\tabc"
+			],
+			[
+				"item",
+				"itemCount: \t  int"
+			],
+			[
+				"list",
+				"ListView\t  Class"
+			],
+			[
+				"navi",
+				"navigation_model.dart"
+			],
+			[
+				"im",
+				"import '';\t  Keyword"
+			],
+			[
+				"Wige",
+				"WidgetItem\t(navigation_model.dart)"
+			],
+			[
+				"crop",
+				"crop_gridBattleState\tabc"
+			],
+			[
+				"cro",
+				"crop_gridPointState\tabc"
+			],
+			[
+				"grid",
+				"gridBattleState\tabc"
+			],
+			[
+				"di",
+				"div\tabc"
+			],
+			[
+				"dis",
+				"display\tabc"
+			],
+			[
+				"bo",
+				"box-shadow\tproperty"
+			],
+			[
+				"disp",
+				"maxDisplayCount"
+			],
+			[
+				"in",
+				"inputText\tabc"
+			],
+			[
+				"arra",
+				"arrayTwo\tabc"
+			],
+			[
+				"tema",
+				"teamState\tabc"
+			],
+			[
+				"_",
+				"_gridItemTapped\t(main.dart)"
+			],
+			[
+				"fi",
+				"fieldSizeX\t  int"
+			],
+			[
+				"field",
+				"fieldSizeX\t(main.dart)"
+			],
+			[
+				"Json",
+				"JsonWrite\t(json_utilities.dart)"
+			],
+			[
+				"J",
+				"JsonRead\tabc"
+			],
+			[
+				"Text",
+				"TextField\tabc"
+			],
+			[
+				"max",
+				"maxLength: ,\t  int"
+			],
+			[
+				"setS",
+				"setState(() {});\t  (void Function() fn) → void"
+			],
+			[
+				"set",
+				"setTimeout"
+			],
+			[
+				"lo",
+				"logoview"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"bac",
+				"background\tproperty"
+			],
+			[
+				"start",
+				"startLettering"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"anime",
+				"animedown"
+			],
+			[
+				"anie",
+				"animeup"
+			],
+			[
+				"i",
+				"initial\tposition"
+			],
+			[
+				"spa",
+				"spanElement"
+			],
+			[
+				"app",
+				"appendChild"
+			],
+			[
+				"sta",
+				"stars2"
+			],
+			[
+				"span",
+				"spans"
+			],
+			[
+				"max-",
+				"max-height\tproperty"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"data",
+				"data-depth"
+			],
+			[
+				"D",
+				"D1495B"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"Do",
+				"DOCUMENT_WIDTH"
+			],
+			[
+				"H",
+				"DOCUMENT_HEIGHT"
+			],
+			[
+				"DOC",
+				"DOCUMENT_HEIGHT"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"fo",
+				"for\tfor (…) {…}"
+			],
+			[
+				"rando",
+				"randomX"
+			],
+			[
+				"DO",
+				"DOCUMENT_WIDTH"
+			],
+			[
+				"init",
+				"initParallax"
+			],
+			[
+				"fun",
+				"fun\tFunction"
+			],
+			[
+				"s",
+				"src\tAttr"
+			],
+			[
+				"loa",
+				"loadingcover"
+			],
+			[
+				"c",
+				"cursor"
+			],
+			[
+				"a",
+				"a\t<a href=\"mailto:\"> "
+			],
+			[
+				"ea",
+				"easeInOutExpo"
+			],
+			[
+				"trans",
+				"translateX"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"nav",
+				"navmenu"
+			],
+			[
+				"is",
+				"isMENUOpened"
+			],
+			[
+				"paddi",
+				"padding\tproperty"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"ba",
+				"background-yellow\t(style.css)"
+			],
+			[
+				"inner",
+				"innerHeight\t.innerHeight()"
+			],
+			[
+				"wi",
+				"window"
+			],
+			[
+				"backgron",
+				"background-color\tproperty"
+			],
+			[
+				"x",
+				"z-index\tproperty"
+			],
+			[
+				"anim",
+				"animation"
+			],
+			[
+				"sc",
+				"script"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"Koro",
+				"KotoriRose-Bold"
+			],
+			[
+				"boar",
+				"border-radius\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"conte",
+				"container\t(style.css)"
+			],
+			[
+				"margi",
+				"margin\tproperty"
+			],
+			[
+				"background",
+				"background-color\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"foo",
+				"footer\t<footer>"
+			],
+			[
+				"ht",
+				"html5\tSimple HTML5 Boilerplate"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"re",
+				"relative\t(index.vue)"
+			],
+			[
+				"blo",
+				"block\tdisplay"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"marig",
+				"margin-right\tproperty"
+			],
+			[
+				"S",
+				"SearchBar"
+			],
+			[
+				"colo",
+				"color_black"
+			],
+			[
+				"paddin",
+				"padding-top\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"json",
+				"jsonData"
+			],
+			[
+				"ob",
+				"object-fit\tproperty"
+			],
+			[
+				"rgba",
+				"rgba()\tbackground-color"
+			],
+			[
+				"margin-",
+				"margin-right\tproperty"
+			],
+			[
+				"backgro",
+				"background_black\t(index.vue)"
+			],
+			[
+				"ab",
+				"absolute\tposition"
+			],
+			[
+				"path",
+				"pathname"
+			],
+			[
+				"Slide",
+				"SlidePusher"
+			],
+			[
+				"Sli",
+				"SlideList"
+			],
+			[
+				"Sl",
+				"SlidePusher"
+			],
+			[
+				"unde",
+				"undefined"
+			],
+			[
+				"ge",
+				"GetnowSlide"
+			],
+			[
+				"SLi",
+				"SlideChenger"
+			],
+			[
+				"now",
+				"nowSlide"
+			],
+			[
+				"Lo",
+				"LogoImage"
+			],
+			[
+				"T",
+				"TitleText"
+			],
+			[
+				"P",
+				"PrimaryMetaTags"
+			],
+			[
+				"Me",
+				"MetaTags"
+			],
+			[
+				"Meta",
+				"MetaTagsJS"
+			],
+			[
+				"au",
+				"autofocus\tAttr"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"foc",
+				"autofocus\tAttr"
+			],
+			[
+				"div",
+				"div\tTag"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			],
+			[
+				"prose",
+				"processId"
+			],
+			[
+				"document",
+				"document.getElementById(\"box"
+			],
+			[
+				"mari",
+				"margin\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "nuxt.config.js",
+			"settings":
+			{
+				"buffer_size": 1022,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"server",
+				"LSP: Restart Servers"
+			],
+			[
+				"waka",
+				"WakaTime: Open Dashboard"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"LSP",
+				"Preferences: LSP Settings"
+			],
+			[
+				"ayu",
+				"ayu: Activate theme"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"todore",
+				"TodoReview: Open Files"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"package sync",
+				"PackageSync: Sync Online - Define Online Sync Folder"
+			],
+			[
+				"sync",
+				"Sync Settings: Create and Upload"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"preference",
+				"Preferences: Browse Packages"
+			],
+			[
+				"codic",
+				"codic: search"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: rp",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ip",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: inpa",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"A File Icon: Revert to a Freshly Installed State"
+			],
+			[
+				"Markdown",
+				"Markdown Preview: Preview in Browser"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"cd",
+			"cd /",
+			"flutter",
+			"fliutter",
+			"flutter run",
+			"c",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/karuhi/Develop/Github/hcmtFoodMenuWeb/server/index.html",
+		"/Users/karuhi/Develop/Github/hcmtFoodMenuWeb/server/server.js",
+		"/Users/karuhi/Develop/Github/SonarPlantEditor/lib/navigation_model.dart",
+		"/Users/karuhi/Develop/Github/karuhi.work/js/main.js",
+		"/Users/karuhi/Desktop/Lightsail-Fortuna/etc/nginx/sites-available/cloud.karuhi.work",
+		"/Users/karuhi/Desktop/colors.css",
+		"/Volumes/NO NAME/test.bat",
+		"/Users/karuhi/Desktop/Lightsail-Fortuna/var/www/lazuri.site/html/wp-config.php",
+		"/Users/karuhi/Desktop/Lightsail-Fortuna/etc/nginx/sites-available/yueru.site",
+		"/Users/karuhi/Desktop/Lightsail-Fortuna/etc/nginx/sites-available/lazuri.site",
+		"/Users/karuhi/openssh.sh",
+		"/Users/karuhi/Develop/flutter-desktop-embedding/example/lib/field.dart",
+		"/Users/karuhi/Develop/flutter-desktop-embedding/example/lib/tile.dart",
+		"/Users/karuhi/Develop/flutter-desktop-embedding/example/lib/agents.dart",
+		"/Users/karuhi/Develop/flutter-desktop-embedding/example/lib/main.dart",
+		"/Users/karuhi/Develop/flutter-desktop-embedding-/testbed/pubspec.yaml",
+		"/Users/karuhi/Develop/SonarPlantEditor/example/macos/ExampleWindow.swift",
+		"/Users/karuhi/Develop/flutter-desktop-embedding-/analysis_options.yaml",
+		"/Users/karuhi/Desktop/Lightsail-Fortuna/home/ubuntu/workdir/docker-compose.yml",
+		"/Users/karuhi/Desktop/Lightsail-Fortuna/home/ubuntu/workdir/config/nginx.conf",
+		"/Users/karuhi/Downloads/flutter-desktop-embedding-master/example/pubspec.yaml",
+		"/Users/karuhi/Desktop/aya.cfbx.jp/var/www/cgi-bin/index.html",
+		"/Users/karuhi/Desktop/DM.md",
+		"/Volumes/MJRO1717/url.txt",
+		"/Users/karuhi/Develop/Github/SonarPlant/lib/commons/point_calculate.dart",
+		"/Users/karuhi/Desktop/createArray",
+		"/Users/karuhi/Develop/Github/karuhi.work/images/ogp/site.webmanifest",
+		"/Users/karuhi/Develop/Github/karuhi.work/images/ogp/README.md",
+		"/Users/karuhi/Develop/Github/karuhi.work/settings.json",
+		"/Users/karuhi/Develop/Github/Typer/src/pages/typing.vue",
+		"/Users/karuhi/Develop/Github/Typer/src/pages/index.vue",
+		"/Users/karuhi/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/Users/karuhi/Desktop/2019_06_15 Docker チートシート.md",
+		"/Users/karuhi/Develop/Github/SonarPlant/lib/main.dart",
+		"/Users/karuhi/Develop/Github/SonarPlant/lib/commons/json_utilities.dart",
+		"/Users/karuhi/Develop/Github/SonarPlant/lib/model/navigation_model.dart",
+		"/Users/karuhi/Develop/Github/SonarPlant/assets/before.json",
+		"/Users/karuhi/Develop/Github/SonarPlant/lib/theme.dart",
+		"/Users/karuhi/Develop/Github/SonarPlant/assets/after.json",
+		"/Users/karuhi/Develop/Github/SonarPlant/pubspec.yaml",
+		"/C/dev/karuhi.work/css/style.css",
+		"/C/dev/karuhi.work/js/jquery.scrollify.setting.js",
+		"/C/dev/karuhi.work/js/main.js",
+		"/C/dev/karuhi.work/index.html",
+		"/C/dev/karuhi.work/js/jquery.main.js",
+		"/C/Users/karuhi/Documents/GitHub/work/js/scrollify.setting.js",
+		"/C/Users/karuhi/Documents/GitHub/work/css/style.css",
+		"/C/Users/karuhi/Documents/GitHub/work/index.html",
+		"/C/Users/karuhi/Documents/GitHub/work/js/init.js",
+		"/C/dev/karuhi.work/js/jquery-3.4.1.min.js",
+		"/C/dev/karuhi.work/js/jquery.scrollify.js",
+		"/C/dev/karuhi.work/js/jquery.scrollyfy.js",
+		"/C/dev/karuhi.work/js/parallax.min.js",
+		"/C/Users/karuhi/Downloads/データサンプル/フィールド情報_turn0.json",
+		"/C/Users/karuhi/Downloads/データサンプル/行動情報_ID5.json",
+		"/C/dev/Yugenzikko/src/components/Header.vue",
+		"/C/dev/yougen-vue/src/views/Home.vue",
+		"/C/dev/yougen-vue/src/views/Dashboard.vue",
+		"/C/dev/Scrolly/main.js",
+		"/C/dev/karuhi.work/js/anime.min.js",
+		"/C/Users/karuhi/Documents/GitHub/PersonaWeb/assets/css/common.css",
+		"/C/Users/karuhi/Documents/GitHub/PersonaWeb/assets/css/timeline.css",
+		"/C/Users/karuhi/Documents/GitHub/PersonaWeb/assets/css/index.css",
+		"/C/Users/karuhi/Documents/GitHub/PersonaWeb/assets/css/mypage.css",
+		"/C/Users/karuhi/Documents/GitHub/PersonaWeb/assets/css/accounts.css",
+		"/C/dev/yougen-vue/src/assets/fonts.css",
+		"/C/dev/karuhi.work/css/ress.min.css",
+		"/C/Users/karuhi/Desktop/html/index.html",
+		"/C/flutter-desktop-embedding/example/lib/main.dart",
+		"/C/flutter-desktop-embedding/example/analysis_options.yaml",
+		"/C/flutter-desktop-embedding/example/.metadata",
+		"/C/dev/flutter-desktop-embedding/example/windows/pubspec.yaml",
+		"/C/dev/flutter-desktop-embedding/example/hello_world/pubspec.yaml",
+		"/C/Users/karuhi/AppData/Roaming/Sublime Text 3/Packages/TodoReview/Default.sublime-keymap",
+		"/C/Users/karuhi/AppData/Roaming/Sublime Text 3/Packages/User/TodoReview.sublime-settings",
+		"/C/Users/karuhi/AppData/Roaming/Sublime Text 3/Packages/User/PackageSync.sublime-settings",
+		"/C/Users/karuhi/AppData/Roaming/Sublime Text 3/Packages/User/SyncSettings.sublime-settings",
+		"/C/Users/karuhi/Documents/GitHub/JumsCMS/src/pages/index.vue",
+		"/C/Users/karuhi/Documents/GitHub/JumsCMS/src/components/header.vue",
+		"/C/Users/karuhi/Documents/GitHub/JumsCMS/src/pages/_id/index.vue",
+		"/C/Users/karuhi/Documents/GitHub/JumsCMS/src/assets/json/data.json",
+		"/C/Users/karuhi/Documents/GitHub/JumsCMS/src/layouts/default.vue",
+		"/C/Users/karuhi/Documents/GitHub/JumsCMS/nuxt.config.js",
+		"/C/Users/karuhi/Documents/GitHub/PersonaWeb/assets/js/metatags.js",
+		"/C/Users/karuhi/Documents/GitHub/PersonaWeb/index.html",
+		"/D/Horizon.band/projectData",
+		"/C/Users/karuhi/Documents/GitHub/PersonaWeb/timeline.html",
+		"/C/Users/karuhi/Documents/GitHub/PersonaWeb/register.html",
+		"/C/Users/karuhi/Documents/GitHub/PersonaWeb/mypage.html",
+		"/C/Users/karuhi/Documents/GitHub/PersonaWeb/login.html",
+		"/C/Users/karuhi/Documents/GitHub/PersonaWeb/404.html",
+		"/C/Users/karuhi/Documents/GitHub/PersonaWeb/assets/img/feedback-line.svg",
+		"/C/Users/karuhi/Documents/GitHub/PersonaWeb/assets/img/arrow-go-back-fill.svg",
+		"/C/Users/karuhi/Documents/GitHub/PersonaWeb/assets/js/login.js",
+		"/C/Users/karuhi/Documents/GitHub/PersonaWeb/assets/img/logout-box-line.svg",
+		"/C/Users/karuhi/Documents/GitHub/PersonaWeb/assets/css/dark.css",
+		"/C/Users/karuhi/Documents/GitHub/PersonaWeb/assets/img/user-3-line.svg",
+		"/C/Users/karuhi/Documents/GitHub/PersonaWeb/assets/js/accountsRegistration.js",
+		"/C/Users/karuhi/Documents/GitHub/PersonaWeb/assets/img/checkbox-circle-line.svg",
+		"/C/Users/karuhi/Documents/GitHub/PersonaWeb/assets/img/shield-user-line.svg",
+		"/C/Users/karuhi/Documents/GitHub/PersonaWeb/assets/img/lock-password-line.svg",
+		"/C/Users/karuhi/Documents/GitHub/PersonaWeb/assets/img/mail-line.svg",
+		"/C/Users/karuhi/Documents/GitHub/PersonaWeb/assets/img/profile-line.svg",
+		"/C/Users/karuhi/Documents/GitHub/PersonaWeb/assets/img/register.svg",
+		"/C/Users/karuhi/Documents/GitHub/PersonaWeb/assets/img/login-box-line.svg",
+		"/C/Users/karuhi/Documents/GitHub/PersonaWeb/assets/js/passwordchecker.js",
+		"/C/Users/karuhi/Documents/GitHub/PersonaWeb/accounts.html",
+		"/C/Users/karuhi/Documents/GitHub/PersonaWeb/test.html",
+		"/C/Program Files (x86)/Audacity/help/manual/man/faq_installing_the_lame_mp3_encoder.html",
+		"/C/Users/hikaru/Documents/GitHub/PersonaWeb/assets/css/timeline.css",
+		"/C/Users/hikaru/Documents/GitHub/PersonaWeb/timeline.html",
+		"/C/Users/hikaru/Documents/GitHub/PersonaWeb/index.html",
+		"/C/Users/hikaru/Documents/GitHub/PersonaWeb/assets/css/index.css",
+		"/C/dev/PersonaWeb/index.html",
+		"/C/dev/PersonaWeb/assets/css/timeline.css",
+		"/C/dev/PersonaUI_PT/index.html",
+		"/C/Users/meltfilia/AppData/Local/Temp/scp38940/var/www/html/karuhi-work/coming_soon/index.html",
+		"/C/dev/Persona/package.json",
+		"/C/dev/Persona/vue.config.js",
+		"/C/dev/Persona/src/views/Login.vue",
+		"/C/dev/Persona/src/views/Register.vue",
+		"/C/dev/Persona/src/App.vue",
+		"/C/dev/Persona/src/main.js",
+		"/C/dev/Persona/src/views/Home.vue",
+		"/C/Users/meltfilia/AppData/Local/Temp/scp52553/var/www/html/karuhi-work/coming_soon/index.html",
+		"/C/Users/meltfilia/AppData/Local/Temp/scp52718/var/www/html/karuhi-work/index.html",
+		"/C/dev/Yougen-Vue-Web/src/views/Home.vue",
+		"/C/dev/Yougen-Vue-Web/src/views/Dashboard.vue"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": true,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "nuxt.config.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1022,
+						"regions":
+						{
+							"col_FFFFFFFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										528,
+										532
+									]
+								],
+								"scope": "col_FFFFFFFF"
+							},
+							"col_FFFFFFFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FFFFFFFF_circle.png",
+								"regions":
+								[
+									[
+										507,
+										507
+									]
+								],
+								"scope": "col_gutter"
+							}
+						},
+						"selection":
+						[
+							[
+								37,
+								37
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1020,
+										1021
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										18,
+										19
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 48.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 114.0
+	},
+	"output.diagnostics":
+	{
+		"height": 125.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "hcmtFoodMenuWeb.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 356.666666667,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"luxbar-header"
+			]
+		],
+		"width": 517.333333333
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 168.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

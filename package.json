@@ -1,0 +1,28 @@
+{
+  "name": "hcmtFoodMenuWeb",
+  "version": "1.0.0",
+  "description": "hcmtFoodMenu for Web",
+  "author": "karuhi",
+  "private": true,
+  "scripts": {
+    "dev": "cross-env NODE_ENV=development nodemon server/index.js --watch server",
+    "build": "nuxt build",
+    "start": "cross-env NODE_ENV=production node server/index.js",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.5.4",
+    "@nuxtjs/pwa": "^2.6.0",
+    "cirrus-ui": "^0.5.4",
+    "cross-env": "^5.2.0",
+    "express": "^4.17.1",
+    "nuxt": "^2.8.1",
+    "vue-tiny-slider": "^0.1.35"
+  },
+  "devDependencies": {
+    "eslint-config-prettier": "^6.0.0",
+    "eslint-plugin-prettier": "^3.1.0",
+    "prettier": "^1.18.2",
+    "nodemon": "^1.19.1"
+  }
+}
