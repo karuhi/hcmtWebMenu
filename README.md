@@ -1,4 +1,4 @@
-# hcmtFoodMenuWeb
+# hcmtWebMenu
 
 > hcmtFoodMenu for Web
 
