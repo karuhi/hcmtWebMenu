@@ -14,7 +14,9 @@ router.get('/menu/:year/:month/:date', (req, res, next) => {
   var param = {
     "2019": [
     	{
-        date: "07/01",
+    	id: 0,
+        date: "07/27",
+        star: [1,2,3],
         breakfast: {
           A: ["ご飯", "味噌汁", "ポテトサラダ", "サイコロ高野", "牛乳"],
           B: ["ご飯", "味噌汁", "ポテトサラダ", "サイコロ高野", "牛乳"]
@@ -26,7 +28,23 @@ router.get('/menu/:year/:month/:date', (req, res, next) => {
         },
       },
       {
-        date: "07/02",
+      	id: 1,
+        date: "07/28",
+        star: [4,5,1],
+        breakfast: {
+          A: ["ご飯", "味噌汁", "ポテトサラダ", "サイコロ高野", "牛乳"],
+          B: ["ご飯", "味噌汁", "ポテトサラダ", "サイコロ高野", "牛乳"]
+        },
+        lunch: ["ご飯", "味噌汁", "ポテトサラダ", "サイコロ高野", "牛乳"],
+        dinner: {
+          A: ["ご飯", "味噌汁", "ポテトサラダ", "サイコロ高野", "牛乳"],
+          B: ["ご飯", "味噌汁", "ポテトサラダ", "サイコロ高野", "牛乳"]
+        },
+      },
+      {
+      	id: 2,
+        date: "07/29",
+        star: [4,5,1],
         breakfast: {
           A: ["ご飯", "味噌汁", "ポテトサラダ", "サイコロ高野", "牛乳"],
           B: ["ご飯", "味噌汁", "ポテトサラダ", "サイコロ高野", "牛乳"]
@@ -54,8 +72,8 @@ router.get('/menu/:year/:month/:date', (req, res, next) => {
   		return (params.date === month + '/' + date);
   	})
   }
-  if (isOK != true) {
-    param = "500 Internal Server Error | 入力フィールドに何らかの不具合があります。";
+  if (isOK == false) {
+    param = null;
   }
 
   res.header('Content-Type', 'application/json; charset=utf-8')

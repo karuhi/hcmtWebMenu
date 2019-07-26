@@ -4,20 +4,23 @@
   </div>
 </template>
 <script>
-  export default {
-    head() {
+export default {
+  head() {
     return {
       link: [
-        { rel: 'stylesheet', href: 'https://cdn.jsdelivr.net/npm/cirrus-ui@0.5.4/dist/cirrus.min.css'}
+        { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Nunito+Sans:200,300,400,600,700&display=swap' },
+        { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap' },
+        { rel: 'stylesheet', href: 'https://cdn.jsdelivr.net/npm/cirrus-ui@0.5.4/dist/cirrus.min.css' },
+        { rel: 'stylesheet', href: 'https://use.fontawesome.com/releases/v5.9.0/css/all.css'}
       ]
     }
   },
-  }
+}
+
 </script>
 <style>
 html {
-  font-family: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI',
-    Roboto, 'Helvetica Neue', Arial, sans-serif;
+  font-family: "Nunito Sans", -apple-system, BlinkMacSystemFont, Avenir, "Avenir Next", "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
   font-size: 16px;
   word-spacing: 1px;
   -ms-text-size-adjust: 100%;
@@ -34,32 +37,4 @@ html {
   margin: 0;
 }
 
-.button--green {
-  display: inline-block;
-  border-radius: 4px;
-  border: 1px solid #3b8070;
-  color: #3b8070;
-  text-decoration: none;
-  padding: 10px 30px;
-}
-
-.button--green:hover {
-  color: #fff;
-  background-color: #3b8070;
-}
-
-.button--grey {
-  display: inline-block;
-  border-radius: 4px;
-  border: 1px solid #35495e;
-  color: #35495e;
-  text-decoration: none;
-  padding: 10px 30px;
-  margin-left: 15px;
-}
-
-.button--grey:hover {
-  color: #fff;
-  background-color: #35495e;
-}
 </style>
