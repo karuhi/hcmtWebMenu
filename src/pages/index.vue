@@ -24,51 +24,97 @@
           </div>
           <div class="content">
             <div v-show="disp_menu == 0">
-              <div>{{item[0]['breakfast']['A']}}</div>
-              <div>{{item[0]['breakfast']['B']}}</div>
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th><abbr title="Title1">A定食</abbr></th>
+                    <th><abbr title="Title2">B定食</abbr></th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr v-for="i in item[0]['breakfast'][0].length">
+                    <td>
+                      {{item[0]['breakfast'][0][i-1]}}
+                    </td>
+                    <td>
+                      <div v-if="item[0]['breakfast'][1] != undefined">{{item[0]['breakfast'][1][i-1]}}</div>
+                      <div v-if="item[0]['breakfast'][1] == undefined">なし</div>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
             </div>
             <div v-show="disp_menu == 1">
-              {{item[0]['lunch']}}
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th><abbr title="Title1">A定食</abbr></th>
+                    <th><abbr title="Title2">B定食</abbr></th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr v-for="i in item[0]['lunch'][0].length">
+                    <td>
+                      {{item[0]['lunch'][0][i-1]}}
+                    </td>
+                    <td>
+                      <div v-if="item[0]['lunch'][1] != undefined">{{item[0]['lunch'][1][i-1]}}</div>
+                      <div v-if="item[0]['lunch'][1] == undefined">なし</div>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
             </div>
             <div v-show="disp_menu == 2">
-              <div>{{item[0]['dinner']['A']}}</div>
-              <div>{{item[0]['dinner']['B']}}</div>
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th><abbr title="Title1">A定食</abbr></th>
+                    <th><abbr title="Title2">B定食</abbr></th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr v-for="i in item[0]['dinner'][0].length">
+                    <td>
+                      {{item[0]['dinner'][0][i-1]}}
+                    </td>
+                    <td>
+                      <div v-if="item[0]['dinner'][1] != undefined">{{item[0]['dinner'][1][i-1]}}</div>
+                      <div v-if="item[0]['dinner'][1] == undefined">なし</div>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
             </div>
           </div>
-          <div class="card-footer level content center">
+          <!--<div class="card-footer level content center">
             みんなの評価：
-            <div v-for="i in 5">
+            <div v-for="i in response[disp_date][0]['star'][disp_menu]">
               <a class="level-item">
                 <span class="icon iconstared"><i class="fa small fa-star" aria-hidden="true"></i></span>
               </a>
             </div>
-          </div>
+            <div v-for="i in 5-response[disp_date][0]['star'][disp_menu]">
+              <a class="level-item">
+                <span class="icon"><i class="fa small fa-star" aria-hidden="true"></i></span>
+              </a>
+            </div>
+          </div>-->
           <div class="action-bar">
             <div class="btn-group btn-group-fill">
-              <button v-bind:class="{ 'btn-dark' : disp_menu[0]}" @click="changeMenu(0)">朝食を見る</button>
-              <button v-bind:class="{ 'btn-dark' : disp_menu[1]}" @click="changeMenu(1)">昼食を見る</button>
-              <button v-bind:class="{ 'btn-dark' : disp_menu[2]}" @click="changeMenu(2)">夕食を見る</button>
+              <button v-bind:class="{ 'btn-dark' : disp_menu == 0}" @click="changeMenu(0)">朝食</button>
+              <button v-bind:class="{ 'btn-dark' : disp_menu == 1}" @click="changeMenu(1)">昼食</button>
+              <button v-bind:class="{ 'btn-dark' : disp_menu == 2}" @click="changeMenu(2)">夕食</button>
             </div>
           </div>
         </div>
       </div>
     </div>
-    <!--<div class="content">
-      
-      <div class="card">
-        
-        <div class="action-bar center" v-if="response != null">
-          <div class="btn-group btn-group-fill">
-            
-          </div>
-        </div>
-      </div>
-    </div>-->
     <footer>
       <div class="footer-list-title">hcmtWebMenu</div>
       <ul>
-        <a href="" class="list-item">更新情報</a>
-        <a href="" class="list-item">ロードマップ</a>
+        <nuxt-link to="roadmap" class="list-item">ロードマップ(更新情報)</nuxt-link>
+        <nuxt-link to="contact"class="list-item">お問い合わせ</nuxt-link>
       </ul>
     </footer>
   </div>
@@ -94,14 +140,10 @@ export default {
   },
   methods: {
     changeMenu(num) {
-      const index = num;
-      for (var i = 0; i < this.disp_menu.length; i++) {
-        this.disp_menu.splice(i, 1, false);
-      }
-      this.disp_menu.splice(index, 1, true);
-      console.log(this.disp_menu);
+      this.disp_menu = num;
     },
     changeDate(num) {
+      this.disp_menu = 0;
       this.disp_date = num;
     },
     callMenu(year, month, day) {
@@ -134,6 +176,10 @@ export default {
 
 .card button {
   border-color: #white;
+}
+
+.card .action-bar button {
+  margin: 0;
 }
 
 .iconstared {
