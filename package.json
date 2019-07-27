@@ -1,5 +1,5 @@
 {
-  "name": "hcmtFoodMenuWeb",
+  "name": "HCMTWebMenu",
   "version": "1.0.0",
   "description": "hcmtFoodMenu for Web",
   "author": "karuhi",
@@ -8,8 +8,7 @@
     "dev": "cross-env NODE_ENV=development nodemon server/index.js --watch server",
     "build": "nuxt build",
     "start": "cross-env NODE_ENV=production node server/index.js",
-    "generate": "nuxt generate",
-    "now-build": "nuxt build --spa",
+    "generate": "nuxt generate"
   },
   "dependencies": {
     "@nuxtjs/axios": "^5.5.4",
