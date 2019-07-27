@@ -14,7 +14,7 @@ router.get('/menu/:year/:month/:date', (req, res, next) => {
   var param = {
     "2019": [{
         id: 0,
-        date: "07/27",
+        date: "07/28",
         star: [1, 2, 3],
         breakfast: [
           ["ご飯", "味噌汁", "ポテトサラダ", "サイコロ高野", "牛乳"],
@@ -30,7 +30,7 @@ router.get('/menu/:year/:month/:date', (req, res, next) => {
       },
       {
         id: 1,
-        date: "07/28",
+        date: "07/29",
         star: [4, 5, 1],
         breakfast: [
           ["ご飯", "味噌汁", "ポテトサラダ", "サイコロ高野", "牛乳"],
@@ -46,7 +46,7 @@ router.get('/menu/:year/:month/:date', (req, res, next) => {
       },
       {
         id: 2,
-        date: "07/29",
+        date: "07/30",
         star: [3, 1, 5],
         breakfast: [
           ["ご飯", "味噌汁", "ポテトサラダ", "サイコロ高野", "牛乳"],
