@@ -136,6 +136,9 @@ export default {
     var month = ("0" + (dates.getMonth() + 1)).slice(-2);
     var day = ("0" + dates.getDate()).slice(-2);
     this.todayDate = year + '/' + month + '/' + day;
+    year = "2019";
+    month = "07";
+    day = "28";
     this.callMenu(year, month, day);
   },
   methods: {

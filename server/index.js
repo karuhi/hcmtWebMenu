@@ -16,6 +16,8 @@ config.dev = !(process.env.NODE_ENV === 'production')
 async function start() {
   // Set api route
   app.use('/api', apiRouter)
+  app.use(express.json())
+  app.use(express.urlencoded({ extended: true }));
   // Init Nuxt.js
   const nuxt = new Nuxt(config)
 

@@ -3,6 +3,14 @@ const router = express.Router()
 // reqest param
 // 
 // /menu/YYYY/MM/DD
+router.get('/status', (req, res, next) => {
+	res.writeHead(200, { 'Content-Type': 'application/json; charset=utf-8' });
+    res.end(JSON.stringify({ status: 'ok' }));
+})
+router.get('/add', (req, res, next) => {
+  const pst = req.body;
+  res.render(pst);
+})
 router.get('/menu/:year/:month/:date', (req, res, next) => {
   //varidate
   var isOK = true;
